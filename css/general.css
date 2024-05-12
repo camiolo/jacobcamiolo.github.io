@@ -1,3 +1,7 @@
+/* 
+This begining section as denoted by, slash then star, is comments about the CSS code.  
+Any writting after the, slash then star, and before the, star then slash, is consideted to be comments and not rendered by the browser.
+*/ 
 
 p {
   width: 500px;
@@ -5,12 +9,13 @@ p {
   border-style: dotted;
 }
 
+/* For any HTML code where id="line_02" */
  #line_02 {
-   color: red;
+   color: red;   /* Set text color to red */
  }
 
  #line_03 {
-   color: green;
+   color: green;  /* Set text color to green */
  }
 
  #line_04 {
