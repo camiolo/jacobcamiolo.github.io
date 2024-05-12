@@ -5,7 +5,7 @@ Any writting after the, slash then star, and before the, star then slash, is con
 
 p {
   width: 500px;
-  border: 10px;
+  border: 1px;
   border-style: dotted;
 }
 
