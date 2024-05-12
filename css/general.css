@@ -1,6 +1,17 @@
 
 p {
-  color: red;
   width: 500px;
   border: 1px solid black;
 }
+
+ #id=line_02 {
+   color: red
+ }
+
+ #id=line_03 {
+   color: green
+ }
+
+ #id=line_04 {
+   color: blue
+ }
