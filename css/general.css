@@ -22,6 +22,11 @@ p {
    color: blue;
  }
 
+/* For any HTML code where id="line_04" and the mouse cursor is hovering over it, change the color from blue as shown in the code above, to yellow. */
+#line_04:hover {
+  color: yellow;
+}
+
  #line_05 {
    color: teal;
    writing-mode: horizontal-tb;
