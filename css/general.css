@@ -1,21 +1,23 @@
 
 p {
   width: 500px;
-  border: 1px solid black;
+  border: 1px;
+  border-style: dotted;
 }
 
  #line_02 {
-   color: red
+   color: red;
  }
 
  #line_03 {
-   color: green
+   color: green;
  }
 
  #line_04 {
-   color: blue
+   color: blue;
  }
 
  #line_05 {
-   color: teal
+   color: teal;
+   writing-mode: horizontal-tb;
  }
